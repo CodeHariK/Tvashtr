@@ -25,6 +25,7 @@
 * [Machine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 * [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
 * [Artificial Intelligence with Python](https://www.youtube.com/watch?v=5NgNicANyqM)
+* [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x)
 * [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 * [Create a Large Language Model from Scratch with Python](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 * [No Black Box Machine Learning Course](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4)
