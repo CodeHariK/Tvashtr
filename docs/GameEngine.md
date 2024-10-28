@@ -4,9 +4,10 @@
 * Game Engine Book : Wolfenstein
 * Game Engine Book : Doom
 
+* Game Engine Architecture
+
 * Real-Time Rendering
 * Physically Based Rendering
-* Game Engine Architecture
 * Foundations of Game Engine Development
 * FUNDAMENTALS OF COMPUTER GRAPHICS
 * Ray Tracing Gems
