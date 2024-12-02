@@ -7,3 +7,8 @@
 ## VideoGameAnimationStudy
 
 * [How 2D Fighter Games are Animated](https://www.youtube.com/watch?v=WYCjmVhiLaM&ab_channel=VideoGameAnimationStudy)
+
+## Procedural Animation
+
+* [The Procedural Animation of Gibbon: Beyond the Trees - Wolfire Games](https://www.youtube.com/watch?v=KCKdGlpsdlo)
+* [Spiderbot ik Procedural Animation In Godot 4.0](https://www.youtube.com/watch?v=G_seJ2Yg1GA)
