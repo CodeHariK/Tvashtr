@@ -1,3 +1,7 @@
+## Camera
+
+* [How to Make a Good 2D Camera](https://www.youtube.com/watch?v=TdWFzpgnljs&ab_channel=GameMaker%27sToolkit)
+
 ## Celeste
 * [Why Does Celeste Feel So Good to Play?](https://www.youtube.com/watch?v=yorTG9at90g&ab_channel=GameMaker%27sToolkit)
 * [Is It Possible to Beat Celeste Without Climbing?](https://www.youtube.com/watch?v=Q4_k-IX3k4M&ab_channel=Sample)
@@ -14,3 +18,8 @@
 
 ## Shooters
 * [SNIPERS: A Nightmare for Developers and Players](https://www.youtube.com/watch?v=lOebGm_jMLY&ab_channel=Arch)
+* [Truly innovative FPS games](https://www.youtube.com/watch?v=nP88Sn9EHKY&ab_channel=Riloe)
+
+## 
+
+* [Game Dev Guide Creating A Replay System In Unity](https://www.youtube.com/watch?v=Bb8Rdivmx8U)
