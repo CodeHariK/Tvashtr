@@ -8,7 +8,6 @@
 ## Linear Algebra
 
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
 * [Why is the determinant like that?](https://www.youtube.com/watch?v=Sv7VseMsOQc)
 
 ## Statistics
@@ -23,6 +22,13 @@
 ## Geometric Algebra
 
 * [Let's remove Quaternions from every 3D Engine: Intro to Rotors from Geometric Algebra](https://www.youtube.com/watch?v=Idlv83CxP-8&t=903s)
+
+## Calculus
+
+* [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
+* [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ## Differential equations
 
