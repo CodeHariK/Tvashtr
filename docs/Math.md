@@ -29,6 +29,7 @@
 
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+* [MIT : Fourier Series](https://www.youtube.com/watch?v=vA9dfINW4Rg)
 
 ## Differential equations
 
