@@ -27,6 +27,10 @@
 
 * [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+## FFT
+
+* [Coding a synthesizer in C](https://www.youtube.com/playlist?list=PLJak15SQAGJPm438EBNkHE-olvaTc8rHv)
+
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 * [MIT : Fourier Series](https://www.youtube.com/watch?v=vA9dfINW4Rg)
