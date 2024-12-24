@@ -35,6 +35,8 @@
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 * [MIT : Fourier Series](https://www.youtube.com/watch?v=vA9dfINW4Rg)
 
+* [CS 372/472: Digital Music Processing, Ursinus College](youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
+
 ## Differential equations
 
 * [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
