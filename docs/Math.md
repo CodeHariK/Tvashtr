@@ -33,7 +33,9 @@
 
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+
 * [MIT : Fourier Series](https://www.youtube.com/watch?v=vA9dfINW4Rg)
+* [MIT : FFT](https://www.youtube.com/watch?v=iTMn0Kt18tg)
 
 * [CS 372/472: Digital Music Processing, Ursinus College](youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
 
