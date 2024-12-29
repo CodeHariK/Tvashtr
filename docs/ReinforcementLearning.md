@@ -4,4 +4,4 @@
 
 * [Reinforcement Learning](https://www.youtube.com/@CS188Spring2013/videos)
 
-* [Stanford CS 221](https://www.youtube.com/playlist?list=PL9IVqq60cScBaM1NkuzbbybNFLhNypL9S)
+* [Stanford CS 221](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
