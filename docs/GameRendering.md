@@ -1,5 +1,7 @@
 # Game Rendering
 
+* https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started
+
 * [Computer Graphics (CMU 15-462/662)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
 * [Discrete Differential Geometry - CMU 15-458/858](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 

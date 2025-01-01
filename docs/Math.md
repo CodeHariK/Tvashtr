@@ -30,14 +30,20 @@
 ## FFT
 
 * [Coding a synthesizer in C](https://www.youtube.com/playlist?list=PLJak15SQAGJPm438EBNkHE-olvaTc8rHv)
+* [Coding Adventure: Sound (and the Fourier Transform)](https://www.youtube.com/watch?v=iA6wRgwl7k0)
 
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+
+* [The Most Important Algorithm Of All Time](https://www.youtube.com/watch?v=nmgFG7PUHfo)
+* [The Discrete Fourier Transform: Most Important Algorithm Ever?](https://www.youtube.com/watch?v=yYEMxqreA10)
 
 * [MIT : Fourier Series](https://www.youtube.com/watch?v=vA9dfINW4Rg)
 * [MIT : FFT](https://www.youtube.com/watch?v=iTMn0Kt18tg)
 
 * [CS 372/472: Digital Music Processing, Ursinus College](youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
+
+* [Discrete Fourier Transforms](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY_BI7Fe0nYETCVoVhptFaf)
 
 ## Differential equations
 
