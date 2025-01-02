@@ -32,6 +32,8 @@
 * [Coding a synthesizer in C](https://www.youtube.com/playlist?list=PLJak15SQAGJPm438EBNkHE-olvaTc8rHv)
 * [Coding Adventure: Sound (and the Fourier Transform)](https://www.youtube.com/watch?v=iA6wRgwl7k0)
 
+* [A Musician's Intuition on the Fourier Transform (feat. the Inner Product)](https://www.youtube.com/watch?v=ToMyB5Hk06w)
+
 * [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?](https://www.youtube.com/watch?v=h7apO7q16V0)
 * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
 
@@ -43,7 +45,18 @@
 
 * [CS 372/472: Digital Music Processing, Ursinus College](youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
 
+* [What is a Discrete Fourier Transform](https://www.youtube.com/watch?v=g8RkArhtCc4)
+
 * [Discrete Fourier Transforms](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvY_BI7Fe0nYETCVoVhptFaf)
+
+* [Peter Gilliam - Musical Fourier](https://www.youtube.com/watch?v=Eayo7pZ2g7A)
+
+* [Discrete Fourier Transform - Simple Step by Step](https://www.youtube.com/watch?v=mkGsMWi_j4Q)
+* [The FFT Algorithm - Simple Step by Step](https://www.youtube.com/watch?v=htCj9exbGo0)
+
+* [Understanding the Discrete Fourier Transform and the FFT](https://www.youtube.com/watch?v=QmgJmh2I3Fw)
+
+* [CS 372/472: Digital Music Processing](https://www.youtube.com/playlist?list=PLxGzv4uunL64oPNYSkBOt1lECGrVK6jru)
 
 ## Differential equations
 

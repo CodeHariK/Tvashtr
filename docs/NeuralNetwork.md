@@ -21,6 +21,8 @@
 
 * [Deep Learning - Stanford CS231N](https://www.youtube.com/playlist?list=PLSVEhWrZWDHQTBmWZufjxpw3s8sveJtnJ)
 
+* [Applied Deep Learning 2024 - TU Wien](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8tSQuU3jN71fmmGFFCi7Dc)
+
 * [Learn PyTorch for deep learning in a day](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 * [Machine Learning for Everybody](https://www.youtube.com/watch?v=i_LwzRVP7bg)
 * [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)

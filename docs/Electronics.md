@@ -35,6 +35,10 @@
 
 * [Raspberry Pi Bare Metal](https://www.youtube.com/playlist?list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8)
 
+## STM32
+
+* [STM32 Firmware](https://www.youtube.com/playlist?list=PLXSyc11qLa1a4Tqbz228dPZfMrs-KRpzA)
+
 # Emulators
 
 * https://github.com/fogleman/nes
