@@ -1,8 +1,11 @@
 # Systems Programming
 
-* Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond
+* [Nand To Tetris Coursera Course Part 1](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1)
+* [From Nand to Tetris Part 2](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh)
 
-* [Nand to tetris]()
+* Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond
+* Computer Organization and Design RISC-V
+* Digital Design and Computer Architecture, RISC-V
 
 * The linux programming interface
 
