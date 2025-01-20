@@ -72,6 +72,9 @@
 
 # Emulators
 
+* [Ben eater Building an 8-bit breadboard computer!](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+* [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
+
 * https://github.com/fogleman/nes
 * https://github.com/maxpoletaev/dendy
 * https://github.com/amhndu/SimpleNES
@@ -91,9 +94,6 @@
 * [Developing Emulators for Beginners](https://www.youtube.com/watch?v=zsieM03Sofo)
 
 * http://www.6502.org/tutorials/
-
-* [Building an 8-bit breadboard computer!](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-* [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
 
 * [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
 * [6502 CPU Emulator in C++](https://www.youtube.com/playlist?list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37)
