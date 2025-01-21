@@ -132,3 +132,6 @@
 * [Implementing a Lox interpreter in Rust](https://www.youtube.com/watch?v=mNOLaw-_Buc)
 
 * [twitchcore: a little RISC-V core | in Python | in Verilog | on FPGA](https://www.youtube.com/watch?v=camQ9QeBY9Q)
+
+#### Coredump
+* [How computer processors run conditions and loops](https://www.youtube.com/watch?v=Ui6QyzcD3_E)
