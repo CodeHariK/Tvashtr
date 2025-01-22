@@ -1,3 +1,63 @@
+## Electronics
+
+* The Elements of Computing Systems
+
+* Electrical engineering without prior knowledge
+
+* The Art of Electronics
+
+* Open Circuits: The Inner Beauty of Electronic Components
+* Engineering in Plain Sight
+
+* Practical Electronics for Inventors
+* Make: Electronics
+
+* Getting Started with FPGAs
+* Programming FPGAs
+
+* Hacking Electronics
+* Programming Arduino
+
+* [How I built a Mechanical Calculator](https://www.youtube.com/watch?v=E0pJST5mL3A)
+
+* [Veritasium Why The First Computers Were Made Out Of Light Bulbs](https://www.youtube.com/watch?v=FU_YFpfDqqA)
+* [The Most Powerful Computers You've Never Heard Of](https://www.youtube.com/watch?v=IgF3OX8nT0w)
+
+* [Phil’s Lab](https://www.youtube.com/@PhilsLab)
+
+* [Ben eater Building an 8-bit breadboard computer!](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+* [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
+* [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW)
+
+* [Global Science Network : Electronics](https://www.youtube.com/playlist?list=PL52rQn9fkWwNrZ2wSoO962_7hmBCqOrUZ)
+
+* [Artful Bytes : Embedded System Project Series](https://www.youtube.com/playlist?list=PLS_iNJJVTtiRV0DZRDcTHnvAuDrKGPN40)
+
+* [Sebastian Lague : Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq)
+
+* [Matt Godbolt on Computerphile](https://www.youtube.com/playlist?list=PLzH6n4zXuckpwdGMHgRH5N9xNHzVGCxwf)
+
+* [From Transistors To Tetris](https://www.youtube.com/playlist?list=PLYfDYrRrWge2CmDgyQuDH5QavI_NUuufi)
+
+* [The Engineering Mindset : Electronic Components Explained](https://www.youtube.com/playlist?list=PLWv9VM947MKi8KxDEki9x0FkQv3WBb2Ev)
+* [Fun with Transistors](https://www.youtube.com/watch?v=5vRAACeebjI)
+
+* [Coredumped Computer architecture from scratch](https://www.youtube.com/playlist?list=PL9vTTBa7QaQOoMfpP3ztvgyQkPWDPfJez)
+* [Coredumped Operating Systems Theory](https://www.youtube.com/playlist?list=PL9vTTBa7QaQPdvEuMTqS9McY-ieaweU8M)
+
+* [Branch Education How do Computers Work?](https://www.youtube.com/playlist?list=PL6rx9p3tbsMsZ9hUvU-kDOXc8Fot04Hhu)
+
+* [Spanning Tree](https://www.youtube.com/@SpanningTree/videos)
+
+* [Computing Compass](https://www.youtube.com/@computingcompass2358/videos)
+
+* [DroneBot Workshop](https://www.youtube.com/@Dronebotworkshop)
+* [ALL ABOUT ELECTRONICS](https://www.youtube.com/@ALLABOUTELECTRONICS)
+
+* [Building and programming a 16-bit Intel x86 breadboard computer](https://www.youtube.com/playlist?list=PLcGZbzUhfcJbEazYYKUgdnEskZa5PX86N)
+
+* [GPU Programming](https://www.youtube.com/playlist?list=PL5XwKDZZlwaY7t0M5OLprpkJUIrF8Lc9j)
+
 # Systems Programming
 
 * [Nand To Tetris Coursera Course Part 1](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1)
@@ -10,6 +70,10 @@
 * The linux programming interface
 
 * Beej's Guide to Network Programming
+
+* [Nir Lichtman : Linux Programming with C](https://www.youtube.com/playlist?list=PL0tgH22U2S3Giz-yIxVQTEKIZpMBP0tMf)
+
+* [But, what is Virtual Memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I)
 
 # Interpreters
 
@@ -30,26 +94,6 @@
 * [8-bit chip and system emulators in standalone C headers](https://github.com/floooh/chips)
 * https://github.com/sysprog21/rv32emu
 
-
-# Electronics
-
-* The Elements of Computing Systems
-
-* Electrical engineering without prior knowledge
-
-* The Art of Electronics
-
-* Open Circuits: The Inner Beauty of Electronic Components
-* Engineering in Plain Sight
-
-* Practical Electronics for Inventors
-* Make: Electronics
-
-* Getting Started with FPGAs
-* Programming FPGAs
-
-* Hacking Electronics
-* Programming Arduino
 
 ## Course
 
@@ -72,9 +116,6 @@
 
 # Emulators
 
-* [Ben eater Building an 8-bit breadboard computer!](https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU)
-* [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
-
 * https://github.com/fogleman/nes
 * https://github.com/maxpoletaev/dendy
 * https://github.com/amhndu/SimpleNES
@@ -89,7 +130,7 @@
 
 * [Zig for the Uninitiated](https://www.youtube.com/playlist?list=PLpAgOnc-f1-mn47HLcLM85LDU-2TenGGR)
 
-* [Practical ARM Assembly Tutorial Series](https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg)
+* [LaurieWired : Practical ARM Assembly Tutorial Series](https://www.youtube.com/playlist?list=PLn_It163He32Ujm-l_czgEBhbJjOUgFhg)
 
 * [Developing Emulators for Beginners](https://www.youtube.com/watch?v=zsieM03Sofo)
 
@@ -102,6 +143,8 @@
 * [6502 Assembly Crash Course](https://www.youtube.com/playlist?list=PLgvDB6LWam2WvoFvh8tlUqbqw92qWM0aP)
 * [NES Emulator From Scratch](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 * [C++ Emulator for 6502](https://www.youtube.com/playlist?list=PLZ51_5WcvDvCoG-YgmXJEJ69L79YUpMW9)
+
+* [JDH I designed my own 8-bit computer just to play PONG](https://www.youtube.com/watch?v=7A1SzIIKMho)
 
 * [16-Bit Virtual Machine](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b)
 * [RISC-V CPU In TypeScript](https://www.youtube.com/playlist?list=PLP29wDx6QmW4sXTvFYgbHrLygqH8_oNEH)
@@ -123,6 +166,8 @@
 
 * [Introduction to Emulation: Build your own CHIP-8 emulator in just 1 hour!](https://www.youtube.com/watch?v=YHkBgR6yvbY)
 
+* [Matt Godbolt : Emulation in JavaScript](https://www.youtube.com/playlist?list=PL2HVqYf7If8c3E0_m4KH6nwpcclY7eSqf)
+
 * [Ferris Makes Emulators - N64 Emulator](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2)
 * [RiscV Ferris Makes Hardware](https://www.youtube.com/playlist?list=PL-sXmdrqqYYfGDt62AkTCF9opF4uLFieq)
 
@@ -132,6 +177,3 @@
 * [Implementing a Lox interpreter in Rust](https://www.youtube.com/watch?v=mNOLaw-_Buc)
 
 * [twitchcore: a little RISC-V core | in Python | in Verilog | on FPGA](https://www.youtube.com/watch?v=camQ9QeBY9Q)
-
-#### Coredump
-* [How computer processors run conditions and loops](https://www.youtube.com/watch?v=Ui6QyzcD3_E)
