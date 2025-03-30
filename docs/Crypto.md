@@ -6,6 +6,9 @@
 * Mastering Blockchain
 * Blockchain Bubble or Revolution
 
+* [Merkle Trees and Merkle Proofs in Solidity Smart Contracts](https://www.youtube.com/watch?v=s7C2KjZ9n2U)
+* [Cryptography and Zero Knowledge Proof Math](https://www.youtube.com/playlist?list=PLhlPiqNmXBw2rUeJIWRFWgnIbJ4MEvDMY)
+
 * [Complete Web3 Roadmap, Syllabus](https://www.youtube.com/watch?v=D5CGlFQbgnk)
 * [Complete Full Stack + Web3 Project](https://www.youtube.com/watch?v=zi0iR3UN-u0)
 
